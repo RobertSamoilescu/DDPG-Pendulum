@@ -1,8 +1,8 @@
 # DDPG-Pendulum
 
 <p align='center'>
-  <img src="samples/30.gif" width=512/>
-  <img src="samples/figure.png" width=512/>
+  <img src="samples/30.gif" height=256 style="float:left"/>
+  <img src="samples/figure.png" height=256/>
 </p>
 
 ## Run
